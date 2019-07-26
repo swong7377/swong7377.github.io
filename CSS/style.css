@@ -7,7 +7,7 @@ html,body{
     padding:0px;
     font-family: 'Montserrat', sans-serif;
     
-   
+    background-color: linear-gradient(to bottom, rgha() 0%, rgba() 100%);
 }
 
 .wrapper{
